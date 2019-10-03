@@ -20,3 +20,15 @@ code is  "[link's name](the website)
 :+1: +1  
 :smile: smile  
 
+### add a list
+ordered list:
+1. item 1
+2. item 2
+   1.item 1a
+   2.item 2b  
+  
+unordered list:
+* Item 1
+* Item 2
+  * Item 1a
+  * Item 2b
