@@ -15,9 +15,14 @@ Terminal -- Mac or Linux上的终端/ Windows 上的 cmd (`数据结构`？不�
 单元格: 添加、编辑、剪切、向上和向下移动单元、运行单元内的代码、停止代码、保存工作以及重启 kernel  
 
 code：type code  
-Markdown: type text -- add conclusions and notes as finished some codes
+Markdown: type text -- add conclusions and notes as finished some codes  
 Raw NBConvert: 将Notebook转换为另一种格式（e.g. HTML）的命令行工具  
 Heading: Markdown中添加   [##]自动变成 heading 
+
+# 神奇功能
+%ismagic : %clear, %autosave, %debug, %mkdir  
+* 逐行方式: %*** -- `%time a = range(10)`  
+* 逐单元形式: %%*** -- `%%timeit a = range(10)min(a)`\ 
 
 
 
