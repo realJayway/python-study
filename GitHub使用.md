@@ -24,8 +24,8 @@ code is  "[link's name](the website)
 ordered list:
 1. item 1
 2. item 2  
-   1.item 1a
-   2.item 2b  
+   1. item 1a
+   2. item 2b  
   
 unordered list:
 * Item 1
