@@ -18,5 +18,5 @@ code is  "[link's name](the website)
 ### emoji 
 :heart: :+heart+:
 :+1: +1
-:simle: smile
-:tree:	
+:smile: smile
+
