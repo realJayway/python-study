@@ -22,9 +22,28 @@ Heading: Markdown中添加   [##]自动变成 heading
 # 神奇功能
 %ismagic : %clear, %autosave, %debug, %mkdir  
 * 逐行方式: %*** -- `%time a = range(10)`  
-* 逐单元形式: %%*** -- `%%timeit a = range(10)min(a)`\ 
+* 逐单元形式: %%*** -- `%%timeit a = range(10)min(a)`  
+# 命令模式和编辑模式
+
+## 命令模式(Esc)
+  A -- 单元上插入新的单元格  
+  B -- 单元下插入新的单元格  
+  Z -- 撤销被删除的单元格     
+  Y -- 将该单元格变为一个代码单元格    
+  Shitf + up/down -- 多选择单元格    
+  选择后 Shift + M -- 合并   
+  F -- 弹出[查找与替换]菜单   
+  H -- 查看快捷键完整列表   
 
 
+  
+
+## 编辑模式(Enter)
+  Ctrl + Home -- 回到起始位置   
+  Ctrl + s -- 保存    
+  Ctrl + Enter -- 运行整个单元格    
+  Alt + Enter -- 运行整个单元格并且在之后添加新的单元格   
+  Ctrl + Shift + F -- 打开命令面板
 
 
 
