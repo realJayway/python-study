@@ -32,3 +32,9 @@ unordered list:
 * Item 2
   * Item 1a
   * Item 2b
+
+## Use Emphasis 
+*I love you*(一个星号) is equal to _I love you_(单下划线)
+__I love you__ (双下划线) is equal to **I love you** (双星号)
+_**I** love **you**_ (配合使用)
+'I' love 'you'
