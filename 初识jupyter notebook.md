@@ -19,7 +19,7 @@ Markdown: type text -- add conclusions and notes as finished some codes
 Raw NBConvert: 将Notebook转换为另一种格式（e.g. HTML）的命令行工具  
 Heading: Markdown中添加   [##]自动变成 heading 
 
-# 神奇功能
+# 神奇功能 Magic Function
 %ismagic : %clear, %autosave, %debug, %mkdir  
 * 逐行方式: %*** -- `%time a = range(10)`  
 * 逐单元形式: %%*** -- `%%timeit a = range(10)min(a)`  
